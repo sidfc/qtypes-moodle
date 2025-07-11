@@ -1,7 +1,7 @@
 import html
 from xml.etree import ElementTree as ET
 
-from moodle_qtypes.utils import xml_to_str
+from utils import xml_to_str
 
 
 class Quiz:

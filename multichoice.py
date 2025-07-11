@@ -1,7 +1,7 @@
 from xml.etree import ElementTree as ET
 
-from moodle_qtypes.question import Question
-from moodle_qtypes.utils import bool2str
+from question import Question
+from utils import bool2str
 
 
 # Fraction used by the q_type MultipleChoice from Moodle
